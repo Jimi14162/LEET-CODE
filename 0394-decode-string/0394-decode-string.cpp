@@ -5,7 +5,6 @@ public:
         stack<string>s2;
         string s3;
         string num;
-        //s2.push(s3);
         for(int i=0;i<s.length();i++)
         {
             if(s[i] >= '0' && s[i]<='9')
@@ -37,12 +36,6 @@ public:
                 s3+=s[i];
             }
         }
-        /*if(s3.length()>0)
-        {
-            string temp=s2.top();
-            s2.pop();
-            s2.push(temp+s3);
-        }*/
         return s3;
     }
 };
