@@ -11,6 +11,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Jimi14162/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Jimi14162/LEET-CODE/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Jimi14162/LEET-CODE/tree/master/0503-next-greater-element-ii) |
+| [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Jimi14162/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Jimi14162/LEET-CODE/tree/master/1046-last-stone-weight) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jimi14162/LEET-CODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Jimi14162/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jimi14162/LEET-CODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0394-decode-string) |
+| [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
 ## Stack
 |  |
 | ------- |
@@ -55,6 +58,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jimi14162/LEET-CODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jimi14162/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Jimi14162/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jimi14162/LEET-CODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Monotonic Stack
@@ -66,6 +70,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jimi14162/LEET-CODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jimi14162/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jimi14162/LEET-CODE/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Jimi14162/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Jimi14162/LEET-CODE/tree/master/1046-last-stone-weight) |
@@ -105,10 +110,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Jimi14162/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Jimi14162/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
 | ------- |
@@ -121,4 +128,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Jimi14162/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
