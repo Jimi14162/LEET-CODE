@@ -18,6 +18,7 @@
 | [0835-image-overlap](https://github.com/Jimi14162/LEET-CODE/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Jimi14162/LEET-CODE/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/Jimi14162/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Jimi14162/LEET-CODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/Jimi14162/LEET-CODE/tree/master/1046-last-stone-weight) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jimi14162/LEET-CODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jimi14162/LEET-CODE/tree/master/3483-unique-3-digit-even-numbers) |
@@ -74,6 +75,7 @@
 | [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Jimi14162/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Jimi14162/LEET-CODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jimi14162/LEET-CODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Monotonic Stack
 |  |
@@ -168,6 +170,7 @@
 | [0621-task-scheduler](https://github.com/Jimi14162/LEET-CODE/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Jimi14162/LEET-CODE/tree/master/0860-lemonade-change) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Jimi14162/LEET-CODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Two Pointers
 |  |
 | ------- |
