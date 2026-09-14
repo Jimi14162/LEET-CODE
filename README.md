@@ -10,6 +10,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Jimi14162/LEET-CODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jimi14162/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jimi14162/LEET-CODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/Jimi14162/LEET-CODE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Jimi14162/LEET-CODE/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Jimi14162/LEET-CODE/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Jimi14162/LEET-CODE/tree/master/0621-task-scheduler) |
@@ -67,6 +68,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Jimi14162/LEET-CODE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Jimi14162/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jimi14162/LEET-CODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/Jimi14162/LEET-CODE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Jimi14162/LEET-CODE/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0767-reorganize-string) |
@@ -161,10 +163,16 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Jimi14162/LEET-CODE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Jimi14162/LEET-CODE/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0767-reorganize-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Jimi14162/LEET-CODE/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/Jimi14162/LEET-CODE/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Jimi14162/LEET-CODE/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
