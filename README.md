@@ -24,6 +24,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Jimi14162/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Jimi14162/LEET-CODE/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0767-reorganize-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jimi14162/LEET-CODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -39,6 +40,7 @@
 | ------- |
 | [0394-decode-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0394-decode-string) |
 | [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0767-reorganize-string) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Jimi14162/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Jimi14162/LEET-CODE/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Jimi14162/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jimi14162/LEET-CODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Monotonic Stack
@@ -77,6 +80,7 @@
 | [0621-task-scheduler](https://github.com/Jimi14162/LEET-CODE/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jimi14162/LEET-CODE/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0767-reorganize-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Jimi14162/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Jimi14162/LEET-CODE/tree/master/1046-last-stone-weight) |
 ## Tree
@@ -122,6 +126,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Jimi14162/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Jimi14162/LEET-CODE/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0767-reorganize-string) |
 ## Math
 |  |
 | ------- |
@@ -148,4 +153,5 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Jimi14162/LEET-CODE/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
