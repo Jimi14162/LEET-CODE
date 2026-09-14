@@ -125,10 +125,12 @@
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Jimi14162/LEET-CODE/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Jimi14162/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Jimi14162/LEET-CODE/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Jimi14162/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
