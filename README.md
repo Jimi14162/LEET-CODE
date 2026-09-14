@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/Jimi14162/LEET-CODE/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jimi14162/LEET-CODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jimi14162/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jimi14162/LEET-CODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Jimi14162/LEET-CODE/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Jimi14162/LEET-CODE/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Jimi14162/LEET-CODE/tree/master/0621-task-scheduler) |
@@ -53,6 +54,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jimi14162/LEET-CODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jimi14162/LEET-CODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -63,6 +65,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jimi14162/LEET-CODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jimi14162/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jimi14162/LEET-CODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Jimi14162/LEET-CODE/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0767-reorganize-string) |
@@ -77,6 +80,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jimi14162/LEET-CODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jimi14162/LEET-CODE/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jimi14162/LEET-CODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Jimi14162/LEET-CODE/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jimi14162/LEET-CODE/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -148,6 +152,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Jimi14162/LEET-CODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/Jimi14162/LEET-CODE/tree/master/0835-image-overlap) |
 ## Greedy
 |  |
