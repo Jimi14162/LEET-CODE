@@ -46,6 +46,7 @@
 | [0394-decode-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0394-decode-string) |
 | [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0767-reorganize-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Jimi14162/LEET-CODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -183,4 +184,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Jimi14162/LEET-CODE/tree/master/0455-assign-cookies) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Jimi14162/LEET-CODE/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
