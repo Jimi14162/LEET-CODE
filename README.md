@@ -188,4 +188,8 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Jimi14162/LEET-CODE/tree/master/3498-reverse-degree-of-a-string) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Jimi14162/LEET-CODE/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
