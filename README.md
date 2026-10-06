@@ -47,12 +47,14 @@
 | [0394-decode-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0394-decode-string) |
 | [0692-top-k-frequent-words](https://github.com/Jimi14162/LEET-CODE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jimi14162/LEET-CODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3498-reverse-degree-of-a-string](https://github.com/Jimi14162/LEET-CODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Jimi14162/LEET-CODE/tree/master/0503-next-greater-element-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jimi14162/LEET-CODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [0621-task-scheduler](https://github.com/Jimi14162/LEET-CODE/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Jimi14162/LEET-CODE/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Jimi14162/LEET-CODE/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jimi14162/LEET-CODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Jimi14162/LEET-CODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Two Pointers
 |  |
@@ -202,4 +205,8 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Jimi14162/LEET-CODE/tree/master/0733-flood-fill) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jimi14162/LEET-CODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
