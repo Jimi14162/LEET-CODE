@@ -151,6 +151,7 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Jimi14162/LEET-CODE/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Jimi14162/LEET-CODE/tree/master/0973-k-closest-points-to-origin) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Jimi14162/LEET-CODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Geometry
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [0860-lemonade-change](https://github.com/Jimi14162/LEET-CODE/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jimi14162/LEET-CODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Jimi14162/LEET-CODE/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Jimi14162/LEET-CODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
